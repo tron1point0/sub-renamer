@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# TODO: Handle TV shows from RARBG, too
+
 import sys
 import argparse
 from pathlib import Path
